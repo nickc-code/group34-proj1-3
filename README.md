@@ -3,10 +3,10 @@
 
 
 
-#Google Cloud info from Part2:
-#     Project name: COMS-4111-MUSICDB
-#     Account used: ncc2137@columbia.edu
-#     Command used to log in:psql -U ncc2137 -h 35.231.103.173 -d proj1part2 VM instance: instance-1
+Google Cloud info from Part2:
+     Project name: COMS-4111-MUSICDB
+     Account used: ncc2137@columbia.edu
+     Command used to log in:psql -U ncc2137 -h 35.231.103.173 -d proj1part2 VM instance: instance-1
 
 Music Database
 
